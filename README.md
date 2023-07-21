@@ -7,11 +7,12 @@ Hi there, I'm Erfan Hemati 👋<br><br>🌱 I’m currently learning Front-end W
 
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ErfanXH&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErfanXH&theme=vue-dark&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanXH&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
-
+-->
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ErfanXH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
