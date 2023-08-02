@@ -1,5 +1,6 @@
 ### <div align="center">Hi there 👋 I'm Erfan Hemati
- A Computer Engineering Student at Iran University of Science and Technology👨‍💻</div>  
+<br />
+  <div align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻</div></div>  
   
 
 - 🔭 I’m currently working on Online Shop Web Development  
@@ -71,6 +72,3 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
