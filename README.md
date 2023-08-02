@@ -4,13 +4,13 @@
   
 <br />
 
-- 🔭 I’m currently working on Online Shop Web Development  
+<p align="center"> 🔭 I’m currently working on Online Shop Web Development  </p>
   
 
-- 🌱 I’m currently learning Front-end Web Development  
+<p align="center"> 🌱 I’m currently learning Front-end Web Development  </p>
   
 
-- ⚡ I’m more interested in Hardware Engineering! 
+<p align="center">⚡ I’m more interested in Hardware Engineering! </p>
   
 
 <br/>  
