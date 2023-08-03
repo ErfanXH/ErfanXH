@@ -17,19 +17,17 @@
 
 
 ## My Skill Set  
-<table align="center"><tr><td align="top" width="50%">
-
+<table align="center">
+<tr>
+<td align="top" width="100%">
  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-  
-</div>
+  </div>
 
 </td>
-<td valign="top" width="50%">
-
 </tr>
 </table>
 
