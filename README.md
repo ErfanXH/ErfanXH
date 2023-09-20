@@ -30,19 +30,19 @@
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/erfan-hemati-395655253" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+<img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
 </a>
 
 <a href="https://instagram.com/h_erfan_t" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 
 <a href="https://dev.to/erfanxh" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="30" width="40" />
+<img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="30" width="40" />
 </a>
 
 <a href="https://www.leetcode.com/erfan_h" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+<img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
 </a>
 
 </div>  
