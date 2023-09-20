@@ -29,9 +29,22 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/ErfanXH" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://dev.to/erfanxh" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="30" width="40" />
 </a>
+
+<a href="https://linkedin.com/in/erfan-hemati-395655253" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/h_erfan_t" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/erfan_h" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+</a>
+
 <a href="https://instagram.com/h_erfan_t" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
