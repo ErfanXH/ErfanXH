@@ -41,11 +41,12 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfanXH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfanXH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erfanxh&" alt="erfanxh" /></div>
+</div>
 <br/>
 
 <!-- ## Recent Blog Posts --> 
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->  
- 
