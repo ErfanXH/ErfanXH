@@ -4,7 +4,7 @@
   
 <br />
 
-<p align="center"> 🔭 I’m currently working on Online Shop Web Development  </p>
+<!--<p align="center"> 🔭 I’m currently working on Online Shop Web Development  </p>-->
   
 
 <p align="center"> 🌱 I’m currently learning Front-end Web Development  </p>
