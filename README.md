@@ -6,9 +6,8 @@
 
 ###
 
-<h5 align="left">Connect With Me</h5>
-
-###
+<div>
+<h3 align="left">Connect With Me</h3>
 
 <div align="center">
   <a href="hemati_erfan@comp.iust.ac.ir" target="_blank">
@@ -24,10 +23,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
+</div>
 ###
 
-<h5 align="left">Skill Set</h5>
+<h3 align="left">Skill Set</h3>
 
 ###
 
