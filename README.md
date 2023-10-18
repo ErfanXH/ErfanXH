@@ -1,58 +1,61 @@
-### <div align="center">Hi there 👋 I'm Erfan Hemati
-<br />
-  <div align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻</div></div>  
-  
-<br />
+<h2 align="center">Hi there 👋 I'm Erfan Hemati</h2>
 
-<!--<p align="center"> 🔭 I’m currently working on Online Shop Web Development  </p>-->
-  
+###
 
-<p align="center"> 🌱 I’m currently learning Front-end Web Development  </p>
-  
+<p align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻<br>  <br>🌱 I’m currently learning Artificial Intelligence basics<br><br> 🔭 I’m currently working on Front-end Web Development <br><br>⚡ I’m more interested in Hardware Engineering!</p>
 
-<p align="center">⚡ I’m more interested in Hardware Engineering! </p>
-  
+###
 
-<br/>  
+<h5 align="left">Connect With Me</h5>
 
+###
 
-## My Skill Set  
- 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/erfan-hemati-395655253" target="_blank">
-<img align="center" style="margin: 10px; padding: 5px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/h_erfan_t" target="_blank">
-<img align="center" style="margin: 10px; padding: 5px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-
-<a href="https://dev.to/erfanxh" target="_blank">
-<img align="center" style="margin: 10px; padding: 5px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/erfan_h" target="_blank">
-<img align="center" style="margin: 10px; padding: 5px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
-</a>
-</div>  
-
-## Github Stats  
-<div>
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfanXH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-  <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erfanxh&" alt="erfanxh" /></div>
+  <a href="hemati_erfan@comp.iust.ac.ir" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/erfanxh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+  <a href="www.linkedin.com/in/erfan-hemati" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/h_erfan_t" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
-<br/>
 
-<!-- ## Recent Blog Posts --> 
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
+###
+
+<h5 align="left">Skill Set</h5>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ErfanXH/ErfanXH/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErfanXH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErfanXH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
