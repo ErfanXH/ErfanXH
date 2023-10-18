@@ -24,7 +24,6 @@
   </a>
 </div>
 </div>
-###
 
 <h3 align="left">Skill Set</h3>
 
