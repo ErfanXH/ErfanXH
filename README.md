@@ -1,8 +1,4 @@
 <!--
-
-### <h2 align="center">Hi there 👋 I'm Erfan Hemati</h2>
-
-<p align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻<br>  <br>🌱 I’m currently learning Artificial Intelligence basics<br><br> 🔭 I’m currently working on Front-end Web Development <br><br>⚡ I’m more interested in Hardware Engineering!</p>
   
 ## Connect with me  
 
@@ -77,6 +73,9 @@
 </div>-->
 
 <div align="center">
+<h2>🔗 Connect with me 🔗</h2> 
+<br/>
+<div align="center">
   <a href="mailto:hemati_erfan@comp.iust.ac.ir" margin="10px">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -86,6 +85,7 @@
   <a href="https://dev.to/erfanxh" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
+</div>
 </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -108,18 +108,17 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ErfanXH&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanXH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 </div>
   <br/><br/>
 </div>
-
-<!--<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=ErfanXH&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ErfanXH&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanXH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
 
 <br/>
