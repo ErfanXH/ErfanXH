@@ -8,15 +8,15 @@
 
 <div align="center">
   <a href="mailto:hemati_erfan@comp.iust.ac.ir" margin="10px">
-    <img src="https://github.com/user-attachments/assets/36633caa-ce6e-411f-83db-6d81203f444b" width="24px"/>
+    <img src="https://github.com/user-attachments/assets/01524e55-3dd6-423d-8bab-e5ea30a70ce8" width="28px"/>
   </a>
   <a href="https://linkedin.com/in/erfan-hemati" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f5a166ea-8877-4af6-9e7a-f7db3d83a7a9" width="24px"/>
+    <img src="https://github.com/user-attachments/assets/df54f5a6-00b1-4ac7-bd68-9250fe6bb661" width="28px"/>
   </a>
 </div>
 
 <h2> 
-  <img src="https://github.com/user-attachments/assets/1309240e-3609-4b0e-80cb-0f1cfbfaad18"/>
+  <img src="https://github.com/user-attachments/assets/253d4dc7-c7a0-497b-872c-cd5f4dc44697" width="18px"/>
   Tech Stack
 </h2>
 <div align="center">
@@ -82,7 +82,7 @@
 
 <div>
   <h2>
-    <img src="https://github.com/user-attachments/assets/180f8026-ab61-4c65-bfab-880b5d953d10"/>
+    <img src="https://github.com/user-attachments/assets/9258ce65-3355-4aa8-9523-abf7c84be055" width="22px"/>
     Stats 
   </h2>
   <br>
