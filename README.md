@@ -1,44 +1,92 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ErfanXH.ErfanXH" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erfan+Hemati!;" />
-</h1>
+<!-- <div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary> 
+      <h3> sample text ... </h3>
+    </summary>
+  </ul>
+</div> -->
 
-<h3 align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻</h3>
+<h3 align="center"> Hey there! Super excited to e-meet you ... 👋 </h3>
 
-<br/>
+ <p align="center">
+                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=780&height=70&duration=4000&lines=Computer+Engineering+Student+at+IUST+👨‍💻;Passionate+About+Learning+and+Exploring!+⚡;" />
+ </p>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a Food Website Front-end Development**
- 
- 🌱 I’m currently learning **Machine Learning**
-
-⚡ Fun fact: **I do Front-end and AI!**
-
- </div>
-
-<div align="center">
-<h2>🔗 Connect with me 🔗</h2> 
-<br/>
 <div align="center">
   <a href="mailto:hemati_erfan@comp.iust.ac.ir" margin="10px">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://github.com/user-attachments/assets/36633caa-ce6e-411f-83db-6d81203f444b" width="24px"/>
   </a>
   <a href="https://linkedin.com/in/erfan-hemati" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://dev.to/erfanxh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
+    <img src="https://github.com/user-attachments/assets/f5a166ea-8877-4af6-9e7a-f7db3d83a7a9" width="24px"/>
   </a>
 </div>
-</div>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" /><br>
+<h2 align="center"> Tech Stack</h2>
+<table>
+    <tr>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=html" width="46" height="46"/>
+        </a>
+          <br>HTML
+        </td>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=css" width="46" height="46"/>
+        </a>
+          <br>CSS
+        </td>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="46" height="46"/>
+        </a>
+          <br>BOOTSTRAP
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=js" width="46" height="46"/>
+        </a>
+          <br>JAVASCRIPT
+        </td>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=react" width="46" height="46"/>
+        </a>
+          <br>REACT
+        </td>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=python" width="46" height="46"/>
+        </a>
+          <br>PYTHON
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=c" width="46" height="46"/>
+        </a>
+          <br>C
+        </td>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=cpp" width="46" height="46"/>
+        </a>
+          <br>CPP
+        </td>
+        <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://skillicons.dev/icons?i=cs" width="46" height="46"/>
+        </a>
+          <br>CSHARP
+        </td>
+    </tr>
+</table>
 </div>
 
 <br/>
