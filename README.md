@@ -1,13 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ErfanXH.ErfanXH" />
 
-<!-- <div id="toc" align="center">
-  <ul style="list-style: none">
-    <summary> 
-      <h3> sample text ... </h3>
-    </summary>
-  </ul>
-</div> -->
-
 <h3 align="center"> Hey there! Super excited to e-meet you ... 👋 </h3>
 
  <p align="center">
@@ -22,7 +14,6 @@
     <img src="https://github.com/user-attachments/assets/f5a166ea-8877-4af6-9e7a-f7db3d83a7a9" width="24px"/>
   </a>
 </div>
-
 
 <h2> 
   <img src="https://github.com/user-attachments/assets/1309240e-3609-4b0e-80cb-0f1cfbfaad18"/>
@@ -49,8 +40,6 @@
         </a>
           <b>BOOTSTRAP</b>
         </td>
-   <!-- </tr>
-    <tr> -->
         <td align="center" width="96">
         <a href="https://go.dev/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=js" width="46" height="46"/>
@@ -69,25 +58,23 @@
         </a>
           <b> PYTHON </b>
         </td>
-  <!--  </tr>
-    <tr> -->
         <td align="center" width="96">
         <a href="https://go.dev/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=c" width="46" height="46"/>
         </a>
-          <b>C</b>
+          <b> C </b>
         </td>
         <td align="center" width="96">
         <a href="https://go.dev/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=cpp" width="46" height="46"/>
         </a>
-          <b>CPP</b>
+          <b> CPP </b>
         </td>
         <td align="center" width="96">
         <a href="https://go.dev/" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=cs" width="46" height="46"/>
         </a>
-          <b>CSHARP</b>
+          <b> CSHARP </b>
         </td>
     </tr>
 </table>
@@ -99,17 +86,21 @@
     Stats 
   </h2>
   <br>
-  
-<div align=center>
-
-[![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErfanXH/ErfanXH/output/github-contribution-grid-snake.svg" />
-<br/>
+  <div align=center>
+    [![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    [![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanXH&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+  </div>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErfanXH/ErfanXH/output/github-contribution-grid-snake.svg" />
+  <br>
 </div>
 
 <br/>
+
+<!-- <div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary> 
+      <h3> sample text ... </h3>
+    </summary>
+  </ul>
+</div> -->
