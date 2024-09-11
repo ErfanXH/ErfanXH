@@ -3,7 +3,7 @@
 <h3 align="center"> Hey there! Super excited to e-meet you ... 👋 </h3>
 
  <p align="center">
-                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=780&height=70&duration=4000&lines=Computer+Engineering+Student+at+IUST+👨‍💻;Passionate+About+Learning+and+Exploring!+⚡;" />
+                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=780&height=70&duration=4000&lines=Computer+Engineering+Student+at+IUST+👨‍💻;Enjoy+Learning!+⚡;" />
  </p>
 
 <div align="center">
