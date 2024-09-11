@@ -89,7 +89,7 @@
   <div align=center>
 
    ![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/0-profile-details.svg)
-   ![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/3-stats.svg) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanXH&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+   ![](https://raw.githubusercontent.com/ErfanXH/ErfanXH/main/profile-summary-card-output/buefy/3-stats.svg) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanXH&theme=buefy&show_icons=true&hide_border=true&layout=compact&langs_count=8)
   </div>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErfanXH/ErfanXH/output/github-contribution-grid-snake.svg" />
