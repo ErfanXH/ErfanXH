@@ -3,17 +3,8 @@
 <h3 align="center"> Hey there! Super excited to e-meet you ... 👋 </h3>
 
  <p align="center">
-                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=780&height=70&duration=4000&lines=Computer+Engineering+Student+at+IUST+👨‍💻;Enjoy+Learning!+⚡;" />
+                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=780&height=70&duration=4000&lines=Computer+Engineer+👨‍💻;Enjoy+Learning!+⚡;" />
  </p>
-
-<div align="center">
-  <a href="mailto:hemati_erfan@comp.iust.ac.ir" margin="10px">
-    <img src="https://github.com/user-attachments/assets/01524e55-3dd6-423d-8bab-e5ea30a70ce8" width="28px"/>
-  </a>
-  <a href="https://linkedin.com/in/erfan-hemati" target="_blank">
-    <img src="https://github.com/user-attachments/assets/df54f5a6-00b1-4ac7-bd68-9250fe6bb661" width="28px"/>
-  </a>
-</div>
 
 <h2> 
   <img src="https://github.com/user-attachments/assets/253d4dc7-c7a0-497b-872c-cd5f4dc44697" width="18px"/>
